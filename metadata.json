@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Flash Chat",
+  "description": "A high-performance, aesthetically pleasing AI chat interface powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
